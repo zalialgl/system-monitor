@@ -2,8 +2,7 @@
 
 A sleek, lightweight, and standalone desktop application built with Python to monitor your system's hardware resources in real-time. 
 
-![System Monitor Screenshot](<img width="558" height="850" alt="System-Monitor" src="https://github.com/user-attachments/assets/8fa979bc-3a3f-4d04-bc6c-1fb3719412ec" />
-)
+![System Monitor Screenshot](https://github.com/user-attachments/assets/8fa979bc-3a3f-4d04-bc6c-1fb3719412ec)
 
 ## 🚀 Features
 * **Real-Time Tracking:** Live monitoring of CPU and RAM usage percentages.
